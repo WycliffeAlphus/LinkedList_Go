@@ -1,3 +1,6 @@
+// Write a function ListSort that sorts the
+// nodes of a linked list by ascending order.
+
 package main
 
 import (
